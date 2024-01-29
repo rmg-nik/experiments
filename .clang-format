@@ -1,0 +1,14 @@
+
+BasedOnStyle: Microsoft 
+
+ColumnLimit: 100
+#UseTab: Never
+#IndentWidth: 4
+#BreakBeforeBraces: Allman
+#NamespaceIndentation: All
+#AllowShortFunctionsOnASingleLine: Empty
+AllowAllArgumentsOnNextLine: True
+BinPackArguments: False
+PointerAlignment: Left 
+AlignConsecutiveDeclarations: true
+AlwaysBreakTemplateDeclarations: Yes

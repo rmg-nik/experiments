@@ -1,6 +1,6 @@
 ﻿cmake_minimum_required (VERSION 3.10)
 
-set (CMAKE_CXX_STANDARD 14)
+set (CMAKE_CXX_STANDARD 20)
 
 project ("experiments")
 
@@ -17,3 +17,4 @@ add_subdirectory ("05_allocation_exp")
 add_subdirectory ("06_tmp_exp")
 add_subdirectory ("07_static_dtro_exp")
 add_subdirectory ("08_multithreaded_communication")
+add_subdirectory ("09_type_info")
